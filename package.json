@@ -1,6 +1,6 @@
 {
   "name": "http-response-handler",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A comprehensive utility for standardizing HTTP responses in Node.js applications",
   "main": "index.js",
   "scripts": {
@@ -24,10 +24,19 @@
     "success-response",
     "json",
     "standardized",
-    "utility"
+    "utility",
+    "middleware",
+    "response-formatting",
+    "api-development",
+    "consistent-responses",
+    "error-management"
   ],
   "author": "Jenish Ghadiya <jenishghadiya35@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jenish-Ghadiya/http-response-handler.git"
+  },
   "devDependencies": {
     "jest": "^27.0.6",
     "eslint": "^7.32.0",
